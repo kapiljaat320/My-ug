@@ -178,7 +178,7 @@ bot.add_handler(MessageHandler(auth.my_plan_cmd, filters.command("plan") & filte
 
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 api_url = "http://master-api-v3.vercel.app/"
-api_token = "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTAzNzcyODUwLCJvcmdJZCI6MzI1MjUxLCJ0eXBlIjoxLCJtb2JpbGUiOiI5MTg5NTU3Mjc0MTAiLCJuYW1lIjoiUHJpeWFua2EgUm9qIiwiZW1haWwiOiJwcml5YW5rYTQ0QGdtYWlsLmNvbSIsImlzSW50ZXJuYXRpb25hbCI6MCwiZGVmYXVsdExhbmd1YWdlIjoiRU4iLCJjb3VudHJ5Q29kZSI6IklOIiwiY291bnRyeUlTTyI6IjkxIiwidGltZXpvbmUiOiJHTVQrNTozMCIsImlzRGl5Ijp0cnVlLCJvcmdDb2RlIjoiY3hhemMiLCJpc0RpeVN1YmFkbWluIjowLCJmaW5nZXJwcmludElkIjoiZWVkNDhiM2MzZjRmNDZiZTk4MjdmYTRiYzVjNWFjZDciLCJpYXQiOjE3NTQxMTA4MTYsImV4cCI6MTc1NDcxNTYxNn0.NRsswWnV6mggiB5YYibbcCuww2OBRy6v92Gk7HMANbFc47mQ-xZf4HFwsF78Obu-"
+api_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNzkxOTMzNDE5NSIsInRnX3VzZXJuYW1lIjoi4p61IFtvZmZsaW5lXSIsImlhdCI6MTczODY5MjA3N30.SXzZ1MZcvMp5sGESj0hBKSghhxJ3k1GTWoBUbivUe1I"
 photologo = 'https://cdn.pixabay.com/photo/2025/05/21/02/38/ai-generated-9612673_1280.jpg' #https://envs.sh/GV0.jpg
 photoyt = 'https://tinypic.host/images/2025/03/18/YouTube-Logo.wine.png' #https://envs.sh/GVi.jpg
 photocp = 'https://tinypic.host/images/2025/03/28/IMG_20250328_133126.jpg'
